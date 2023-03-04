@@ -1,0 +1,8 @@
+# Note : If you intend to run the inference on GPU then run the following command on the termial first otherwise keep the requirements as it is
+# conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+ultralytics
+cvzone
+deep-sort-realtime
+# Note : uncomment the following lines if you are working with Sort 
+# scikit-image
+# filterpy
