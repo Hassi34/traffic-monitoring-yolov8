@@ -70,7 +70,7 @@ Go to the project directory
 Run the app
 
 ```bash
-  python trafficMonitor
+  python trafficMonitor.py
 ```
 
 #### **Thank you for visiting 🙏 I hope you find this project useful**<br><br>
